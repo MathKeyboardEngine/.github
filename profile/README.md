@@ -11,4 +11,4 @@ MathKeyboardEngine is currently available for the following languages:
 - [JavaScript](https://github.com/MathKeyboardEngine/MathKeyboardEngine#readme)
 - [TypeScript](https://github.com/MathKeyboardEngine/MathKeyboardEngine#readme)
 
-Do you need MathKeyboardEngine in another programming language? Let it know via the [Discussions page](https://github.com/orgs/MathKeyboardEngine/discussions/categories/language-needed).
+Do you need MathKeyboardEngine in another programming language? Let it know via the [Discussions page](https://github.com/orgs/MathKeyboardEngine/discussions).
