@@ -10,7 +10,7 @@ MathKeyboardEngine is currently available for the following languages:
 - [F#](https://github.com/MathKeyboardEngine/MathKeyboardEngine.CSharp#readme)
 - [JavaScript](https://github.com/MathKeyboardEngine/MathKeyboardEngine#readme)
 - [Python](https://github.com/MathKeyboardEngine/MathKeyboardEngine.Python#readme)
-- Swift (in development)
+- [Swift](https://github.com/MathKeyboardEngine/MathKeyboardEngine.Swift) (in development)
 - [TypeScript](https://github.com/MathKeyboardEngine/MathKeyboardEngine#readme)
 
 Do you need MathKeyboardEngine in another programming language? Let it know via the [Discussions page](https://github.com/orgs/MathKeyboardEngine/discussions).
