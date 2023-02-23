@@ -1,8 +1,8 @@
-## MathKeyboardEngine
+# MathKeyboardEngine
 
 MathKeyboardEngine provides the logic for a highly customizable virtual math keyboard with any LaTeX typesetting library. Test one of the [live examples](https://mathkeyboardengine.github.io/) to get a feel of what it does.
 
-### Programming languages
+## Programming languages
 
 MathKeyboardEngine is currently available for the following languages:
 
@@ -15,7 +15,7 @@ MathKeyboardEngine is currently available for the following languages:
 
 Do you need MathKeyboardEngine in another programming language? Let it know via the [Discussions page](https://github.com/orgs/MathKeyboardEngine/discussions).
 
-### License
+## License
 
 The MathKeyboardEngine repositories use the most permissive licensing available. The "BSD Zero Clause License" ([0BSD](https://choosealicense.com/licenses/0bsd/)) allows for<br/>
 commercial + non-commercial use, closed + open source, with + without modifications, etc. and [is equivalent](https://github.com/github/choosealicense.com/issues/805) to licenses like:
